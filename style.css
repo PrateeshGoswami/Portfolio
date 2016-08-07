@@ -19,7 +19,7 @@ li:last-child {
 h1 {
   text-align: center;
   
-  color:grey;
+  color:fff;
 }
 h3 {
   text-align: right;
@@ -72,6 +72,10 @@ body {
    background: url(http://static.vecteezy.com/system/resources/previews/000/094/491/original/polygonal-texture-background-vector.jpg) no-repeat center fixed;
   background-size: cover;
   
+}
+p {
+  text-align: center;
+  font-size: 30px;
 }
 
 
